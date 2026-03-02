@@ -49,7 +49,7 @@ local PAY2WIN_GAMEPASSES = {
 	{ id = 1724183996, price = 200 },
 }
 
-local hasGamepass = false
+local hasGamepass = true
 local autoFarmActive = false
 local carStabilizationConnection = nil
 local uiElements = nil
@@ -61,7 +61,7 @@ local totalCashEarned = 0
 local lastCashAmount = 0
 local allTimeMoney = 0
 local longestAFKSeconds = 0
-local pay2winBoosts = 0
+local pay2winBoosts = 10
 local pay2winBoostLabel = nil
 local pay2winPriceLabel = nil
 local boostSpeedButton = nil
@@ -114,7 +114,7 @@ local questSpeedBonus = 0
 local questLoopCount = 0
 local questStartTime = tick()
 local questFarmSeconds = 0
-local allQuestsDone = false
+local allQuestsDone = true
 
 local questTaskLabel = nil
 local questProgressLabel = nil

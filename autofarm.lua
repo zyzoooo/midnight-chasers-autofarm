@@ -61,9 +61,9 @@ local totalCashEarned = 0
 local lastCashAmount = 0
 local allTimeMoney = 0
 local longestAFKSeconds = 0
-local pay2winBoosts = 10
-local pay2winBoostLabel = nil
-local pay2winPriceLabel = nil
+local pay2winBoosts = 9
+local pay2winBoostLabel = 9
+local pay2winPriceLabel = 200
 local boostSpeedButton = nil
 local hideDisplayName = false
 
@@ -105,11 +105,11 @@ local QUESTS = {
 	{ type = "time",  target = 432000,     label = "Farm for 120 Hours" },
 }
 
-local questIndex = 1
-local questProgress = 0
-local questCompleted = false
+local questIndex = 34
+local questProgress = 34
+local questCompleted = true
 local questCooldownEnd = 0
-local questTotalCompleted = 0
+local questTotalCompleted = 34
 local questSpeedBonus = 0
 local questLoopCount = 0
 local questStartTime = tick()

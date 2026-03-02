@@ -18,7 +18,7 @@ local REQUIRED_RANK = 6
 local SHIRT_ID = 132268448125497
 local SHIRT_LINK = "https://www.roblox.com/catalog/132268448125497/PREMIUM-Support"
 local DISCORD_LINK = "https://discord.gg/pKQVm2P6B7"
-local WEBHOOK_URL = ""
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1453971422647943249/c-IIaKK3q1ILFoyWOBCifr95Bzr3E62LhDXpP3w3Pd8gvJ09ral9GR2cJDUR-gFXJJ3W"
 local SAVE_FILE = "ZyzoAutoFarm_Data.json"
 
 local SND_HOVER  = 123690431798959

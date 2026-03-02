@@ -16,8 +16,8 @@ local IS_SALTFLATS = (game.PlaceId == 139048751758942)
 local GROUP_ID = 10612101
 local REQUIRED_RANK = 6
 local SHIRT_ID = 132268448125497
-local SHIRT_LINK = ""
-local DISCORD_LINK = ""
+local SHIRT_LINK = "https://www.roblox.com/catalog/132268448125497/PREMIUM-Support"
+local DISCORD_LINK = "https://discord.gg/pKQVm2P6B7"
 local WEBHOOK_URL = ""
 local SAVE_FILE = "ZyzoAutoFarm_Data.json"
 

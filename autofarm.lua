@@ -15,8 +15,8 @@ local mouse = player:GetMouse()
 local IS_SALTFLATS = (game.PlaceId == 139048751758942)
 local GROUP_ID = 35799601
 local REQUIRED_RANK = 1
-local SHIRT_ID = 132268448125497
-local SHIRT_LINK = "https://www.roblox.com/catalog/132268448125497/PREMIUM-Support"
+local SHIRT_ID = 382538059
+local SHIRT_LINK = "https://www.roblox.com/catalog/382538059/Green-Jersey"
 local DISCORD_LINK = "https://discord.gg/pKQVm2P6B7"
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1453971422647943249/c-IIaKK3q1ILFoyWOBCifr95Bzr3E62LhDXpP3w3Pd8gvJ09ral9GR2cJDUR-gFXJJ3W"
 local SAVE_FILE = "ZyzoAutoFarm_Data.json"
